@@ -4,7 +4,6 @@ For comprehensive HTML documentation, visit the [MDN Web Docs - HTML](https://de
 
 Learn about web standards at [MDN Web Docs - Web standards](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards).
 
-<br>
 
 For Emmet documentation, visit [EMMET documentation](https://docs.emmet.io/).
 

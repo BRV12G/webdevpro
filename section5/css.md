@@ -34,25 +34,16 @@
 - [Nivo](https://nivo.rocks/) ![Nivo](https://img.shields.io/npm/v/@nivo/core?label=nivo&style=flat-square)
 
 ### ⚛️ React Utilities
-- [React Spinners](https://www.davidhu.io/react-spinners/) ![React Spinners](https://img.shields.io/npm/v/react-spinners?label=react-spinners&style=flat-square)
-- [React Toastify](https://fkhadra.github.io/react-toastify/) ![React Toastify](https://img.shields.io/npm/v/react-toastify?label=react-toastify&style=flat-square)
-- [React Hot Toast](https://react-hot-toast.com/) ![React Hot Toast](https://img.shields.io/npm/v/react-hot-toast?label=react-hot-toast&style=flat-square)
-- [React Lazyload](https://github.com/twobin/react-lazyload) ![React Lazyload](https://img.shields.io/npm/v/react-lazyload?label=react-lazyload&style=flat-square)
-- [React Modal](https://reactcommunity.org/react-modal/) ![React Modal](https://img.shields.io/npm/v/react-modal?label=react-modal&style=flat-square)
-- [Headless UI](https://headlessui.com/) ![Headless UI](https://img.shields.io/npm/v/@headlessui/react?label=headlessui&style=flat-square)
-- [Radix UI](https://www.radix-ui.com/) ![Radix UI](https://img.shields.io/npm/v/@radix-ui/react-slot?label=radix-ui&style=flat-square)
+- [React Spinners](https://www.davidhu.io/react-spinners/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/) 
+- [React Lazyload](https://github.com/twobin/react-lazyload) 
+- [React Modal](https://reactcommunity.org/react-modal/)
+- [Headless UI](https://headlessui.com/) 
+- [Radix UI](https://www.radix-ui.com/) 
 
 ### 📅 Date / Time
-- [date-fns](https://date-fns.org/) ![date-fns](https://img.shields.io/npm/v/date-fns?label=date-fns&style=flat-square)
-- [Day.js](https://day.js.org/) ![Day.js](https://img.shields.io/npm/v/dayjs?label=dayjs&style=flat-square)
+- [date-fns](https://date-fns.org/) 
+- [Day.js](https://day.js.org/) 
 
----
-
-## 📄 React Form Libraries
-
-- [React Hook Form](https://react-hook-form.com/) ![React Hook Form](https://img.shields.io/npm/v/react-hook-form?label=react-hook-form&style=flat-square)
-- [Formik](https://formik.org/) ![Formik](https://img.shields.io/npm/v/formik?label=formik&style=flat-square)
-- [Yup (Schema Validation)](https://github.com/jquense/yup) ![Yup](https://img.shields.io/npm/v/yup?label=yup&style=flat-square)
-- [Zod (TypeScript-Friendly Validation)](https://zod.dev/) ![Zod](https://img.shields.io/npm/v/zod?label=zod&style=flat-square)
 
 

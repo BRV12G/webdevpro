@@ -1,0 +1,9 @@
+p {
+    color: green;
+    font: bold 20px "Arial";
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: auto;
+    
+}
